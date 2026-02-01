@@ -68,3 +68,6 @@ MYNTRA-JUNIOR-PROJECT/
 ├── data.dvc               # DVC pointer file for the 'data' folder
 ├── models.dvc             # DVC pointer file for the 'models' folder
 └── requirements.txt       # List of Python dependencies
+
+
+**Disclaimer:** This is a personal project created for educational purposes. It is not affiliated with, endorsed by, or connected to Myntra or any of its subsidiaries. The dataset used is synthetic/publicly available.
