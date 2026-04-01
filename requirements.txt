@@ -1,0 +1,17 @@
+# Data Manipulation & Math
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Web App
+streamlit
+
+# MLOps & Version Control
+dvc
