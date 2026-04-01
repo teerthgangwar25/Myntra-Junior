@@ -32,6 +32,10 @@ Instead of quitting, I wrote a **Synthetic Data Generator**. I created 5,000 row
 * **Accuracy:** The model achieved **~83% accuracy**, successfully learning the hidden rules I programmed.
 * **UI:** I built a **Streamlit App** so users can interact with the model without touching code.
 
+  
+**Disclaimer:** This is a personal project created for educational purposes. It is not affiliated with, endorsed by, or connected to Myntra or any of its subsidiaries. The dataset used is synthetic/publicly available.
+
+
 ---
 
 ## Project Structure
@@ -68,3 +72,4 @@ MYNTRA-JUNIOR-PROJECT/
 ├── data.dvc               # DVC pointer file for the 'data' folder
 ├── models.dvc             # DVC pointer file for the 'models' folder
 └── requirements.txt       # List of Python dependencies
+
